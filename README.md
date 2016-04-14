@@ -25,8 +25,8 @@ Once you got it running you can google things using
 
 
 ## TODO list
-[ ] Add help command.
-[ ] Add `next`/`prev` command.
-[ ] Improve html parsing.
-[ ] Improve on-messenger response.
-[ ] IA.
+- [ ] Add help command.
+- [ ] Add `next`/`prev` command.
+- [ ] Improve html parsing.
+- [ ] Improve on-messenger response.
+- [ ] IA.
